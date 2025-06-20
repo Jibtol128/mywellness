@@ -46,11 +46,3 @@ Expected response:
 - Home remedies (e.g., rest, hydration)
 - Red flags for seeing a doctor
 
-# 🎯 Key Features
-Clean, responsive UI with modern CSS
-
-AI-powered health suggestions via Gemini
-
-No login, no data storage — instant results
-
-Easy to scale and customize in the future
