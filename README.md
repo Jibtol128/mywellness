@@ -1,4 +1,4 @@
-Project Summary: Online Diagnosis App with Gemini AI API
+ Online Diagnosis App with Gemini AI API
 Objective:
 I want to build a simple, user-friendly online diagnosis web app using Next.js that allows users to input their symptoms and receive AI-generated health insights—without any user authentication.
 
